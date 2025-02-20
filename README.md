@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm Emmanuel, a second-year university student and
 - 🎓 Education: second-year university student majoring in Computer Science
 - 💻 Interests: ML, AI, and backend systems
 - 🌱 Currently Learning: ML techniques, frontend technologies, backend technologies, and full-stack app development
-- 🏋️ Fun Fact: When I'm not coding, you'll find me hitting the gym!
 
  💼 Experience
 - 🛠️ Web and App Development Intern: Collaborating with frontend and backend developers to create seamless user experiences
