@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm Emmanuel, a second-year university student and
 
 
  🛠️ Technologies & Tools
-- Languages: C++, Java, Dart , JavaScript, SQL, Python
-- Frameworks: Flutter, Django
+- Languages: Java, JavaScript, Python
+- Frameworks: Reactjs, Django
 - Tools: Git, VS Code, Figma
 
 
