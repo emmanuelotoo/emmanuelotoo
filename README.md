@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Emmanuel, a second-year university student and
 
 
  🛠️ Technologies & Tools
-- Languages: Java, JavaScript, Python
+- Languages: Java, JavaScript, Python, c++
 - Frameworks: Reactjs, Django
 - Tools: Git, VS Code, Figma
 
