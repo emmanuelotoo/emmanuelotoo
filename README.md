@@ -2,7 +2,8 @@
 
 
 
-![sasuke-uchiha](https://github.com/user-attachments/assets/eeedc3b0-b3d1-41f1-a924-83e937b4675a)
+![naruto-pain](https://github.com/user-attachments/assets/1760866a-04c2-4e00-808e-8628eaa67f08)
+
 
 
 
