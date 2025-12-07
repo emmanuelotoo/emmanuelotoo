@@ -2,7 +2,8 @@
 
 
 
-![naruto-pain](https://github.com/user-attachments/assets/efb85179-1315-4315-962b-22148735facd)
+![sasuke-uchiha](https://github.com/user-attachments/assets/eeedc3b0-b3d1-41f1-a924-83e937b4675a)
+
 
 
 
@@ -15,4 +16,4 @@ i enjoy:
 
 ~ binge-watching shows
 
-check out my [my website](https://emmanuelotoo.dev/)!
+check out [my website](https://emmanuelotoo.dev/).
