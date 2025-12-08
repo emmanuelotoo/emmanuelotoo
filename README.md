@@ -11,10 +11,19 @@
 hi, im emmanuel.
 i enjoy:
 
-~ building cool stuff
+  ~ building cool stuff
 
-~ football banter
+  ~ football banter
 
-~ binge-watching shows
+  ~ binge-watching shows
+
+
+i'm currently:
+
+  ~ compiling basic dsa concepts to help with my interview prep. check out my [notes](https://emmanuelotoo.notion.site/dsa-notes)
+
+
+
+
 
 check out [my website](https://emmanuelotoo.dev/).
