@@ -8,22 +8,11 @@
 
 
 
-hi, im emmanuel.
-i enjoy:
+hi, im emmanuel. i'm currently:
 
   ~ building cool stuff
-
-  ~ football banter
-
-  ~ binge-watching shows
-
-
-i'm currently:
-
+  
   ~ compiling basic dsa concepts to help with my interview prep. check out my [notes](https://emmanuelotoo.notion.site/dsa-notes)
-
-
-
 
 
 check out [my website](https://emmanuelotoo.dev/).
