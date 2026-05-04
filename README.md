@@ -12,7 +12,7 @@ hi, im emmanuel. i'm currently:
 
   ~ building cool stuff
   
-  ~ compiling basic dsa concepts to help with my interview prep. check out my [notes](https://emmanuelotoo.notion.site/dsa-notes)
+  ~ binge watching shows 
 
 
 check out [my website](https://emmanuelotoo.dev/).
