@@ -15,4 +15,4 @@ hi, im emmanuel. i'm currently:
   ~ binge watching shows 
 
 
-check out [my website](https://emmanuelotoo.dev/).
+check out [my website](https://emmanuelotoo.github.io/).
